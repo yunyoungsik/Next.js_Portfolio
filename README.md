@@ -1,4 +1,5 @@
 # Next.js Portfolio
+<img width="100%" src="https://github.com/yunyoungsik/Next.js_Portfolio/blob/main/public/thumnail.png?raw=true" />
 [참고영상](https://www.youtube.com/watch?v=FTH6Dn3AyIQ&ab_channel=JavaScriptMastery)    
 [Aceternity](https://ui.aceternity.com/)
 
