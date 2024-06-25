@@ -1,7 +1,6 @@
 # Next.js Portfolio
-1시간23분  
-참고영상[https://www.youtube.com/watch?v=FTH6Dn3AyIQ&ab_channel=JavaScriptMastery]    
-aceternity[https://ui.aceternity.com/]
+[참고영상](https://www.youtube.com/watch?v=FTH6Dn3AyIQ&ab_channel=JavaScriptMastery)    
+[Aceternity](https://ui.aceternity.com/)
 
 ## 설치
 ```
