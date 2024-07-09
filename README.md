@@ -1,7 +1,8 @@
 # Next.js Portfolio
 <img width="100%" src="https://github.com/yunyoungsik/Next.js_Portfolio/blob/main/public/thumnail.png?raw=true" />    
-참고영상 : https://www.youtube.com/watch?v=FTH6Dn3AyIQ&ab_channel=JavaScriptMastery <br />
-사이트: https://ui.aceternity.com/ <br />
+
+[참고영상](https://www.youtube.com/watch?v=FTH6Dn3AyIQ&ab_channel=JavaScriptMastery)
+
 ## 설치
 ```bash
 npx create-next-app@latest ./
